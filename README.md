@@ -7,8 +7,12 @@ Users can easily browse through the extensive product catalog, add items to thei
 As a platform under two years old, Baby Bloom is continuously evolving, with a commitment to enhancing its features and services to better serve the needs of parents and their babies.
 
 Front End Technologies : HTML,CSS,Java Script
+
 DataBase:  MySQL
+
 Backend:  Java
+
 Server: Apache Tomcat
+
 IDE and Framework: Spring Tool Suite (STS) integrated with Spring framework
 
